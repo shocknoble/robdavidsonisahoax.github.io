@@ -35,7 +35,7 @@ html {
     }
     #warning {
         position: absolute;
-        top: 25%;
+        top: 25vh;
         text-align: center;
         width: 90%;
         margin-left: 5%;
@@ -56,13 +56,22 @@ html {
     #main {
         margin-top: 15px;
         position: absolute;
-        top: 100%;
+        top: 100vh;
+        margin-left: 2.5vw;;
+        margin-right: 5vw;;
+        
+    }
+
+    .card-img-top {
+        width: 90vw;
         
     }
     .card-body {
         background-color: black;
         color: white;
-        width: 100%;
+        min-width: 90vw;
+        font-size: 3vw;
+
     }
    
 
