@@ -37,8 +37,8 @@ body {
     }
     #warning {
         position: absolute;
-        top: 70vh;
-
+        top: 75vh;
+        background-color: black;
         text-align: center;
         width: 100%;
     }
@@ -58,7 +58,7 @@ body {
     #main {
         margin-top: 15px;
         position: absolute;
-        top: 150vh;
+        top: 250vh;
         width: 100%;
         
     }
